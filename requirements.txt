@@ -15,7 +15,7 @@ cufflinks>=0.17.0
 umap-learn
 pyLDAvis
 gensim<4.0.0
-spacy<2.4.0
+spacy==3.2.3
 nltk
 mlxtend>=0.17.0
 pyod
